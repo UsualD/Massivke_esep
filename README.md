@@ -30,4 +30,4 @@ Palindrom_sandardy_anyqtau
             }
         }
     }
-}
+    }
