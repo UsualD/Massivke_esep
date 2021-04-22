@@ -1,0 +1,2 @@
+# Massivke_esep
+Palindrom_sandardy_anyqtau
