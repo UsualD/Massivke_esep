@@ -2,10 +2,10 @@
 Palindrom_sandardy_anyqtau
 
     #include <iostream>
-using namespace std;
+    using namespace std;
 
-int main()
-{
+    int main()
+    {
     bagdarlama_basy:
     int n, c;
     cout << "Massivke olshem beriniz: n=";
